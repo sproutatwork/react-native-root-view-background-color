@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.rootviewbackgroundcolor;
 
 import android.app.Activity;
 import android.view.View;

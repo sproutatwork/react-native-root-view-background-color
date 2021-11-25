@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.rootviewbackgroundcolor;
 
 import java.util.Arrays;
 import java.util.Collections;
